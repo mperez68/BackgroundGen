@@ -1,0 +1,20 @@
+BACKGROUND GENERATOR
+
+NEEDS:
+
+	input...
+Title
+Description
+2 skill proficiencies
+1 tool proficiency
+Feature (text box)
+Equipment
+
+WANTS:
+
+Suggested Charactaristics
+Languages
+Personality Trait
+Ideal
+Bond
+Flaw
